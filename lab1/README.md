@@ -1,0 +1,1 @@
+[embed]https://github.com/kasmaks/dbLabs2/blob/main/lab1/%D0%9A%D0%B0%D1%81%D0%BD%D0%B5%D1%80_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC_%D0%9A%D0%9F-81_%D0%BB%D0%B0%D0%B11.pdf[/embed]
